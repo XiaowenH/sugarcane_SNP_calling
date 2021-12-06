@@ -1,0 +1,43 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+K36	label	#8fce00	bold-italic	1.5
+K9	label	#8fce00	bold-italic	1.5
+K14	label	#8fce00	bold-italic	1.5
+K20	label	#8fce00	bold-italic	1.5
+K33	label	#8fce00	bold-italic	1.5
+K39	label	#8fce00	bold-italic	1.5
+K8	label	#8fce00	bold-italic	1.5
+K40	label	#8fce00	bold-italic	1.5
+K24	label	#8fce00	bold-italic	1.5
+K27	label	#8fce00	bold-italic	1.5
+K29	label	#8fce00	bold-italic	1.5
+K16	label	#2986cc	bold-italic	1.5
+K7	label	#2986cc	bold-italic	1.5
+K38	label	#2986cc	bold-italic	1.5
+K12	label	#2986cc	bold-italic	1.5
+K19	label	#2986cc	bold-italic	1.5
+K2	label	#2986cc	bold-italic	1.5
+K32	label	#2986cc	bold-italic	1.5
+K1	label	#2986cc	bold-italic	1.5
+K22	label	#744700	bold-italic	1.5
+K30	label	#744700	bold-italic	1.5
+K15	label	#744700	bold-italic	1.5
+K6	label	#744700	bold-italic	1.5
+K4	label	#744700	bold-italic	1.5
+K37	label	#744700	bold-italic	1.5
+K34	label	#744700	bold-italic	1.5
+K21	label	#744700	bold-italic	1.5
+K26	label	#744700	bold-italic	1.5
+K35	label	#744700	bold-italic	1.5
+K17	label	#744700	bold-italic	1.5
+K5	label	#744700	bold-italic	1.5
+K11	label	#744700	bold-italic	1.5
+K18	label	#744700	bold-italic	1.5
+K28	label	#f44336	bold-italic	1.5
+K3	label	#f44336	bold-italic	1.5
+K10	label	#f44336	bold-italic	1.5
+K23	label	#f44336	bold-italic	1.5
+K13	label	#f44336	bold-italic	1.5
+K25	label	#f44336	bold-italic	1.5
+K31	label	#f44336	bold-italic	1.5

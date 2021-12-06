@@ -1,0 +1,10 @@
+chr	-	sb1	Chr1	0	80884392	chr1
+chr	-	sb2	Chr2	0	77742459	chr2
+chr	-	sb3	Chr3	0	74386277	chr3
+chr	-	sb4	Chr4	0	68658214	chr4
+chr	-	sb5	Chr5	0	71854669	chr5
+chr	-	sb6	Chr6	0	61277060	chr6
+chr	-	sb7	Chr7	0	65505356	chr7
+chr	-	sb8	Chr8	0	62686529	chr8
+chr	-	sb9	Chr9	0	59416394	chr9
+chr	-	sb10	Chr10	0	61233695	chr10

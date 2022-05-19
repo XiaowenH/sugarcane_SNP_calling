@@ -36,11 +36,16 @@ dev.off()
 ####################################2d PCA ####################
 library(ggplot2)
 
-#pdf("pca2d.pdf")
-png("PCA2d.png", width = 867*3, height = 558*3, res=100*3)
-ggplot(pca_vec,aes(x=PC1,y=PC2,color=group,shape = group)) + geom_point() + 
+pdf("pca2d.pdf", width = 8.6, height = 6)
+#png("PCA2d.png", width = 860*3, height = 443*3, res=100*3)
+ggplot(pca_vec,aes(x=PC1,y=PC2,color=group,shape = group)) + geom_point(size = 3) + 
   stat_ellipse(level = 0.95, show.legend = F) +
-  xlab(pca_per_x) + ylab(pca_per_y) +  
-  theme_bw()
+  xlab(pca_per_x) + ylab(pca_per_y) + theme_bw() + 
+  theme(axis.text = element_text(size = 16),
+        axis.title= element_text(size=16),
+        legend.text= element_text( size=16), 
+        panel.grid = element_blank(),
+        legend.position = c(0.94, 0.5),
+        legend.title=element_blank()) 
 dev.off()
 
